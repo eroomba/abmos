@@ -1,2 +1,2 @@
 # abmos
-my test OS
+Just seeing what I can learn about writing an OS
